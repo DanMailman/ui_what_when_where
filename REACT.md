@@ -1,0 +1,31 @@
+### REGARDING REACT
+- To learn React: [React documentation](https://reactjs.org/).
+- Bootstrap with [Create React App](https://github.com/facebook/create-react-app).
+- Available Scripts From `.`
+  - `npm start` runs app in dev mode
+    - Launches [local browser app](http://localhost:3000)
+    - Page reloads on File edits.
+    - Console displays lint errors
+  - `npm test` Launches test runner in [interactive watch mode](https://facebook.github.io/create-react-app/docs/running-tests).
+  - `npm run build` Builds production app  to `build` folder for [deployment](https://facebook.github.io/create-react-app/docs/deployment).
+    - Bundles React in production mode
+    - Optimizes/Minifies build for performance
+    - Ensures Filenames include hashes.
+  -  `npm run eject` removes single build dependency from project
+     - **Note: this is a one-way operation.** 
+     - **Once you `eject`, you can’t go back!**
+     - Copies  configuration files and transitive dependencies (webpack, Babel, ESLint, etc)  into your project
+     - All the commands except `eject` 
+       - will still work
+       - but point to copied tweakable scripts
+       - You don’t have to ever use `eject`. 
+- More Info at  [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### USEFUL URLs
+- [Create React App](https://create-react-app.dev/)
+- [facebook: Create React App](https://github.com/facebook/create-react-app)
+- [Webstorm/React](https://www.jetbrains.com/help/webstorm/react.html)
+- [React, TypeScript, and TDD](https://www.jetbrains.com/webstorm/guide/tutorials/react_typescript_tdd/)
+- [Running Tests](https://create-react-app.dev/docs/running-tests/)
+- [Updating to New Releases](https://create-react-app.dev/docs/updating-to-new-releases/)
+### UNTESTED URLs
+- [Getting Started with React and TypeScript](https://www.thisdot.co/blog/getting-started-with-react-and-typescript)
